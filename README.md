@@ -3,7 +3,7 @@
 # WaterTwin
 
 ## Digital Twin Solution
-:globe_with_meridians:https://www.watertwin.eu
+:globe_with_meridians:https://www.watertwin.co
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/showcase/watertwin)
 
